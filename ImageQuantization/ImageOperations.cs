@@ -120,7 +120,8 @@ namespace ImageQuantization
         /// <param name="PicBox">PictureBox object to display the image on it</param>
         public static void DisplayImage(RGBPixel[,] ImageMatrix, PictureBox PicBox)
         {
-            Console.WriteLine("test github");
+            Console.WriteLine("test1 github");
+            Console.WriteLine("test2 github");
             // Create Image:
             //==============
             int Height = ImageMatrix.GetLength(0);
