@@ -31,6 +31,10 @@ Finally, the program will create and save a new image with the quantized color p
 
 ## Some Screenshots:
 
+<img src ="https://github.com/Fares3993/Image-Quantization/assets/84674642/0b286dc2-2806-466c-a77b-e23ffe3f29b7">
+<img src = "https://github.com/Fares3993/Image-Quantization/assets/84674642/04ec54d7-9e35-4925-9e86-4d550a17b179">
+<img src = "https://github.com/Fares3993/Image-Quantization/assets/84674642/93f905bb-9c98-4c91-af63-8c44e72b710f">
+
 
 
 
